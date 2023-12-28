@@ -16,7 +16,7 @@ This embedded system project combines software and hardware design to calculate 
 - Handle negative numbers.
 
 ## Hardware Connection
-!["Hardware.png"]("Media/Hardware.png")
+![Hardware.png](./Media/Hardware.png)
 
 
 ## Author
