@@ -20,4 +20,4 @@ This embedded system project combines software and hardware design to calculate 
 
 
 ## Author
-Linkedin: [Ahmed Khaled]("https://www.linkedin.com/in/eng-ahmedkhaled/")
+Linkedin: [Ahmed Khaled](https://www.linkedin.com/in/eng-ahmedkhaled/)
