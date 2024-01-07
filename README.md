@@ -1,6 +1,6 @@
 # Calculator
 
-This embedded system project combines software and hardware design to calculate simple arithmetic operations.
+This project involves the design of both software and hardware to perform basic arithmetic calculations in an embedded system.
 
 ## Hardware Components
 - Atmega32
@@ -9,11 +9,11 @@ This embedded system project combines software and hardware design to calculate 
 
 ## Challenges
 
-- Calculate more than a single arithmetic operation according to the precedence of each operation.
-- Handle floating digits because Atmega32 doesn't FPU.
-- Can support numbers bigger than one digit.
-- Detect invalid operations.
-- Handle negative numbers.
+- Perform multiple arithmetic operations by following the order of precedence for each operation.
+- Manage floating-point calculations due to Atmega32's lack of an FPU.
+- Support multi-digit numbers.
+- Detect invalid operations
+- Manage negative numbers.
 
 ## Hardware Connection
 ![Hardware.png](./Media/Hardware.png)
